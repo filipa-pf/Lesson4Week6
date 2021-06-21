@@ -2,6 +2,10 @@ body {
   text-align: center !important;
 }
 
+#input-city {
+  max-width: 300px;
+}
+
 .detailed-btn {
   margin: 10px;
   background: d9f0f7;
